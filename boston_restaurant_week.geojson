@@ -1,0 +1,2950 @@
+{
+  "features": [
+    {
+      "id": "224 Boston Street",
+      "properties": {
+        "zip": "02125",
+        "street address": "224 Boston Street",
+        "state": "MA",
+        "geo_longitude": "-71.0581969",
+        "geo_latitude": "42.3273788",
+        "city": "Dorchester"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0581969,
+          42.3273788
+        ]
+      }
+    },
+    {
+      "id": "29 Newbury Street",
+      "properties": {
+        "zip": "02116",
+        "street address": "29 Newbury Street",
+        "state": "MA",
+        "geo_longitude": "-71.0723838461538",
+        "geo_latitude": "42.3524192307692",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0723838461538,
+          42.3524192307692
+        ]
+      }
+    },
+    {
+      "id": "105 Huntington Avenue",
+      "properties": {
+        "zip": "02199",
+        "street address": "105 Huntington Avenue",
+        "state": "MA",
+        "geo_longitude": "-71.080973082813",
+        "geo_latitude": "42.3461422741061",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.080973082813,
+          42.3461422741061
+        ]
+      }
+    },
+    {
+      "id": "75 Chestnut Street",
+      "properties": {
+        "zip": "02108",
+        "street address": "75 Chestnut Street",
+        "state": "MA",
+        "geo_longitude": "-71.070463",
+        "geo_latitude": "42.356973",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.070463,
+          42.356973
+        ]
+      }
+    },
+    {
+      "id": "80 Thoreau Street",
+      "properties": {
+        "zip": "01742",
+        "street address": "80 Thoreau Street",
+        "state": "MA",
+        "geo_longitude": "-71.3577574991742",
+        "geo_latitude": "42.4569063080597",
+        "city": "Concord"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3577574991742,
+          42.4569063080597
+        ]
+      }
+    },
+    {
+      "id": "34 Church Street",
+      "properties": {
+        "zip": "01890",
+        "street address": "34 Church Street",
+        "state": "MA",
+        "geo_longitude": "-71.1393694030558",
+        "geo_latitude": "42.4510838147538",
+        "city": "Winchester"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1393694030558,
+          42.4510838147538
+        ]
+      }
+    },
+    {
+      "id": "255 Tremont Street",
+      "properties": {
+        "zip": "02116",
+        "street address": "255 Tremont Street",
+        "state": "MA",
+        "geo_longitude": "-71.0653034",
+        "geo_latitude": "42.3500896",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0653034,
+          42.3500896
+        ]
+      }
+    },
+    {
+      "id": "550 Adams St.",
+      "properties": {
+        "zip": "02186",
+        "street address": "550 Adams St.",
+        "state": "MA",
+        "geo_longitude": "-71.039793",
+        "geo_latitude": "42.25793075",
+        "city": "Milton"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.039793,
+          42.25793075
+        ]
+      }
+    },
+    {
+      "id": "793 Boylston Street",
+      "properties": {
+        "zip": "02116",
+        "street address": "793 Boylston Street",
+        "state": "MA",
+        "geo_longitude": "-71.0817352272727",
+        "geo_latitude": "42.3490167272727",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0817352272727,
+          42.3490167272727
+        ]
+      }
+    },
+    {
+      "id": "111 Harvard Street",
+      "properties": {
+        "zip": "02139",
+        "street address": "111 Harvard Street",
+        "state": "MA",
+        "geo_longitude": "-71.0928970909091",
+        "geo_latitude": "42.365058",
+        "city": "Cambridge"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0928970909091,
+          42.365058
+        ]
+      }
+    },
+    {
+      "id": "93 Salem Street",
+      "properties": {
+        "zip": "02113",
+        "street address": "93 Salem Street",
+        "state": "MA",
+        "geo_longitude": "-71.055164375",
+        "geo_latitude": "42.365508625",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.055164375,
+          42.365508625
+        ]
+      }
+    },
+    {
+      "id": "569 Tremont Street",
+      "properties": {
+        "zip": "02118",
+        "street address": "569 Tremont Street",
+        "state": "MA",
+        "geo_longitude": "-71.072238",
+        "geo_latitude": "42.343745",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.072238,
+          42.343745
+        ]
+      }
+    },
+    {
+      "id": "11 Boylston Street",
+      "properties": {
+        "zip": "02467",
+        "street address": "11 Boylston Street",
+        "state": "MA",
+        "geo_longitude": "-71.1697418245967",
+        "geo_latitude": "42.321938344731",
+        "city": "Chestnut Hill"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1697418245967,
+          42.321938344731
+        ]
+      }
+    },
+    {
+      "id": "950 Providence Highway",
+      "properties": {
+        "zip": "02026",
+        "street address": "950 Providence Highway",
+        "state": "MA",
+        "geo_longitude": "-71.173059",
+        "geo_latitude": "42.245247",
+        "city": "Dedham"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.173059,
+          42.245247
+        ]
+      }
+    },
+    {
+      "id": "3 Battery Wharf",
+      "properties": {
+        "zip": "02109",
+        "street address": "3 Battery Wharf",
+        "state": "MA",
+        "geo_longitude": "-71.0514250654611",
+        "geo_latitude": "42.366754976621",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0514250654611,
+          42.366754976621
+        ]
+      }
+    },
+    {
+      "id": "253 Hanover Street",
+      "properties": {
+        "zip": "02113",
+        "street address": "253 Hanover Street",
+        "state": "MA",
+        "geo_longitude": "-71.0548894285714",
+        "geo_latitude": "42.363266",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0548894285714,
+          42.363266
+        ]
+      }
+    },
+    {
+      "id": "40 Edwin H Land Blvd",
+      "properties": {
+        "zip": "02142",
+        "street address": "40 Edwin H Land Blvd",
+        "state": "MA",
+        "geo_longitude": "-71.075371",
+        "geo_latitude": "42.36676",
+        "city": "Cambridge"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.075371,
+          42.36676
+        ]
+      }
+    },
+    {
+      "id": "2027 Massachusetts Ave",
+      "properties": {
+        "zip": "02421",
+        "street address": "2027 Massachusetts Ave",
+        "state": "MA",
+        "geo_longitude": "-71.2663848",
+        "geo_latitude": "42.4477092",
+        "city": "Lexington"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2663848,
+          42.4477092
+        ]
+      }
+    },
+    {
+      "id": "6 Prince Street",
+      "properties": {
+        "zip": "02113",
+        "street address": "6 Prince Street",
+        "state": "MA",
+        "geo_longitude": "-71.0537345",
+        "geo_latitude": "42.3641375",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0537345,
+          42.3641375
+        ]
+      }
+    },
+    {
+      "id": "761 Boylston Street",
+      "properties": {
+        "zip": "02116",
+        "street address": "761 Boylston Street",
+        "state": "MA",
+        "geo_longitude": "-71.0816297727273",
+        "geo_latitude": "42.3490472727273",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0816297727273,
+          42.3490472727273
+        ]
+      }
+    },
+    {
+      "id": "1 Avenue de Lafayette",
+      "properties": {
+        "zip": "02111",
+        "street address": "1 Avenue de Lafayette",
+        "state": "MA",
+        "geo_longitude": "-71.0607712",
+        "geo_latitude": "42.3534041",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0607712,
+          42.3534041
+        ]
+      }
+    },
+    {
+      "id": "2 West Street",
+      "properties": {
+        "zip": "02111",
+        "street address": "2 West Street",
+        "state": "MA",
+        "geo_longitude": "-71.061897",
+        "geo_latitude": "42.354372",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.061897,
+          42.354372
+        ]
+      }
+    },
+    {
+      "id": "25 Charles Street",
+      "properties": {
+        "zip": "02114",
+        "street address": "25 Charles Street",
+        "state": "MA",
+        "geo_longitude": "-71.0696570301537",
+        "geo_latitude": "42.3569297943735",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0696570301537,
+          42.3569297943735
+        ]
+      }
+    },
+    {
+      "id": "541 Tremont Street",
+      "properties": {
+        "zip": "02116",
+        "street address": "541 Tremont Street",
+        "state": "MA",
+        "geo_longitude": "-71.070826",
+        "geo_latitude": "42.344493",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.070826,
+          42.344493
+        ]
+      }
+    },
+    {
+      "id": "118 Beacon Street",
+      "properties": {
+        "zip": "02143",
+        "street address": "118 Beacon Street",
+        "state": "MA",
+        "geo_longitude": "-71.105966",
+        "geo_latitude": "42.37782",
+        "city": "Somerville"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.105966,
+          42.37782
+        ]
+      }
+    },
+    {
+      "id": "26 Charles Street",
+      "properties": {
+        "zip": "02116",
+        "street address": "26 Charles Street",
+        "state": "MA",
+        "geo_longitude": "-71.069859997648",
+        "geo_latitude": "42.356860245884",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.069859997648,
+          42.356860245884
+        ]
+      }
+    },
+    {
+      "id": "5 Playstead Road",
+      "properties": {
+        "zip": "02155",
+        "street address": "5 Playstead Road",
+        "state": "MA",
+        "geo_longitude": "-71.1325473345436",
+        "geo_latitude": "42.4214616909788",
+        "city": "Medford"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1325473345436,
+          42.4214616909788
+        ]
+      }
+    },
+    {
+      "id": "272 Boylston Street",
+      "properties": {
+        "zip": "02116",
+        "street address": "272 Boylston Street",
+        "state": "MA",
+        "geo_longitude": "-71.069742125",
+        "geo_latitude": "42.35196275",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.069742125,
+          42.35196275
+        ]
+      }
+    },
+    {
+      "id": "583 Washington Street",
+      "properties": {
+        "zip": "02482",
+        "street address": "583 Washington Street",
+        "state": "MA",
+        "geo_longitude": "-71.2934233547655",
+        "geo_latitude": "42.2953680313985",
+        "city": "Wellesley"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2934233547655,
+          42.2953680313985
+        ]
+      }
+    },
+    {
+      "id": "1375 Washington St. ",
+      "properties": {
+        "zip": "02118",
+        "street address": "1375 Washington St. ",
+        "state": "MA",
+        "geo_longitude": "-71.069569",
+        "geo_latitude": "42.341471",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.069569,
+          42.341471
+        ]
+      }
+    },
+    {
+      "id": "120 Huntington Avenue",
+      "properties": {
+        "zip": "02116",
+        "street address": "120 Huntington Avenue",
+        "state": "MA",
+        "geo_longitude": "-71.0807189",
+        "geo_latitude": "42.3458885",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0807189,
+          42.3458885
+        ]
+      }
+    },
+    {
+      "id": "255 Washington Street",
+      "properties": {
+        "zip": "02143",
+        "street address": "255 Washington Street",
+        "state": "MA",
+        "geo_longitude": "-71.0877384",
+        "geo_latitude": "42.380934",
+        "city": "Somerville"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0877384,
+          42.380934
+        ]
+      }
+    },
+    {
+      "id": "15 Arlington St",
+      "properties": {
+        "zip": "02116",
+        "street address": "15 Arlington St",
+        "state": "MA",
+        "geo_longitude": "-71.071124",
+        "geo_latitude": "42.352528",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.071124,
+          42.352528
+        ]
+      }
+    },
+    {
+      "id": "346 Hanover Street",
+      "properties": {
+        "zip": "02113",
+        "street address": "346 Hanover Street",
+        "state": "MA",
+        "geo_longitude": "-71.0533945",
+        "geo_latitude": "42.3649975",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0533945,
+          42.3649975
+        ]
+      }
+    },
+    {
+      "id": "900 Boylston Street",
+      "properties": {
+        "zip": "02115",
+        "street address": "900 Boylston Street",
+        "state": "MA",
+        "geo_longitude": "-71.091336",
+        "geo_latitude": "42.3465198",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.091336,
+          42.3465198
+        ]
+      }
+    },
+    {
+      "id": "10 Wayside Road",
+      "properties": {
+        "zip": "01803",
+        "street address": "10 Wayside Road",
+        "state": "MA",
+        "geo_longitude": "-71.1909703638025",
+        "geo_latitude": "42.4857783269482",
+        "city": "Burlington"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1909703638025,
+          42.4857783269482
+        ]
+      }
+    },
+    {
+      "id": "1 Burlington Mall Road",
+      "properties": {
+        "zip": "01803",
+        "street address": "1 Burlington Mall Road",
+        "state": "MA",
+        "geo_longitude": "-71.198777",
+        "geo_latitude": "42.489987",
+        "city": "Burlington"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.198777,
+          42.489987
+        ]
+      }
+    },
+    {
+      "id": "500 Harrison Avenue",
+      "properties": {
+        "zip": "02118",
+        "street address": "500 Harrison Avenue",
+        "state": "MA",
+        "geo_longitude": "-71.066172",
+        "geo_latitude": "42.34192",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.066172,
+          42.34192
+        ]
+      }
+    },
+    {
+      "id": "65 Exeter Street ",
+      "properties": {
+        "zip": "02116",
+        "street address": "65 Exeter Street ",
+        "state": "MA",
+        "geo_longitude": "-71.0798846",
+        "geo_latitude": "42.3503105",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0798846,
+          42.3503105
+        ]
+      }
+    },
+    {
+      "id": "215 Charles Street",
+      "properties": {
+        "zip": "02114",
+        "street address": "215 Charles Street",
+        "state": "MA",
+        "geo_longitude": "-71.0701587813972",
+        "geo_latitude": "42.36206395",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0701587813972,
+          42.36206395
+        ]
+      }
+    },
+    {
+      "id": "209 Columbus Ave",
+      "properties": {
+        "zip": "02116",
+        "street address": "209 Columbus Ave",
+        "state": "MA",
+        "geo_longitude": "-71.0734745945946",
+        "geo_latitude": "42.3474275945946",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0734745945946,
+          42.3474275945946
+        ]
+      }
+    },
+    {
+      "id": "700 Boylston Street",
+      "properties": {
+        "zip": "02116",
+        "street address": "700 Boylston Street",
+        "state": "MA",
+        "geo_longitude": "-71.079632",
+        "geo_latitude": "42.349391",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.079632,
+          42.349391
+        ]
+      }
+    },
+    {
+      "id": "162 Columbus Avenue",
+      "properties": {
+        "zip": "02116",
+        "street address": "162 Columbus Avenue",
+        "state": "MA",
+        "geo_longitude": "-71.0778445603687",
+        "geo_latitude": "42.3432195654199",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0778445603687,
+          42.3432195654199
+        ]
+      }
+    },
+    {
+      "id": "20 North Road",
+      "properties": {
+        "zip": "01730",
+        "street address": "20 North Road",
+        "state": "MA",
+        "geo_longitude": "-71.2863045014745",
+        "geo_latitude": "42.5143491737936",
+        "city": "Bedford"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2863045014745,
+          42.5143491737936
+        ]
+      }
+    },
+    {
+      "id": "75 Arlington Street",
+      "properties": {
+        "zip": "02116",
+        "street address": "75 Arlington Street",
+        "state": "MA",
+        "geo_longitude": "-71.0703816",
+        "geo_latitude": "42.3505663",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0703816,
+          42.3505663
+        ]
+      }
+    },
+    {
+      "id": "55 Boylston Street",
+      "properties": {
+        "zip": "02467",
+        "street address": "55 Boylston Street",
+        "state": "MA",
+        "geo_longitude": "-71.1708404436684",
+        "geo_latitude": "42.3216624629152",
+        "city": "Chestnut Hill"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1708404436684,
+          42.3216624629152
+        ]
+      }
+    },
+    {
+      "id": "427 Walnut Street",
+      "properties": {
+        "zip": "01940",
+        "street address": "427 Walnut Street",
+        "state": "MA",
+        "geo_longitude": "-71.0293248789582",
+        "geo_latitude": "42.5148851265339",
+        "city": "Lynnfield"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0293248789582,
+          42.5148851265339
+        ]
+      }
+    },
+    {
+      "id": "250 Northern Avenue",
+      "properties": {
+        "zip": "02210",
+        "street address": "250 Northern Avenue",
+        "state": "MA",
+        "geo_longitude": "-71.0390571666667",
+        "geo_latitude": "42.348981",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0390571666667,
+          42.348981
+        ]
+      }
+    },
+    {
+      "id": "340 Faneuil Hall Market Place",
+      "properties": {
+        "zip": "02109",
+        "street address": "340 Faneuil Hall Market Place",
+        "state": "MA",
+        "geo_longitude": "-71.0546435137174",
+        "geo_latitude": "42.3600563",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0546435137174,
+          42.3600563
+        ]
+      }
+    },
+    {
+      "id": "528 Commonwealth Avenue",
+      "properties": {
+        "zip": "02215",
+        "street address": "528 Commonwealth Avenue",
+        "state": "MA",
+        "geo_longitude": "-71.0960024882762",
+        "geo_latitude": "42.3486889579909",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0960024882762,
+          42.3486889579909
+        ]
+      }
+    },
+    {
+      "id": "900 Beacon Street",
+      "properties": {
+        "zip": "02215",
+        "street address": "900 Beacon Street",
+        "state": "MA",
+        "geo_longitude": "-71.1056946",
+        "geo_latitude": "42.3466971",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1056946,
+          42.3466971
+        ]
+      }
+    },
+    {
+      "id": "2067 Massachusetts Avenue",
+      "properties": {
+        "zip": "02140",
+        "street address": "2067 Massachusetts Avenue",
+        "state": "MA",
+        "geo_longitude": "-71.122369",
+        "geo_latitude": "42.391013",
+        "city": "Cambridge"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.122369,
+          42.391013
+        ]
+      }
+    },
+    {
+      "id": "55 Northern Avenue",
+      "properties": {
+        "zip": "02110",
+        "street address": "55 Northern Avenue",
+        "state": "MA",
+        "geo_longitude": "-71.050393",
+        "geo_latitude": "42.3549705",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.050393,
+          42.3549705
+        ]
+      }
+    },
+    {
+      "id": "69 Church Street",
+      "properties": {
+        "zip": "02116",
+        "street address": "69 Church Street",
+        "state": "MA",
+        "geo_longitude": "-71.068205",
+        "geo_latitude": "42.3490875",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.068205,
+          42.3490875
+        ]
+      }
+    },
+    {
+      "id": "700 Harrison Avenue",
+      "properties": {
+        "zip": "02118",
+        "street address": "700 Harrison Avenue",
+        "state": "MA",
+        "geo_longitude": "-71.0640193",
+        "geo_latitude": "42.3444913",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0640193,
+          42.3444913
+        ]
+      }
+    },
+    {
+      "id": "350 Third Street",
+      "properties": {
+        "zip": "02142",
+        "street address": "350 Third Street",
+        "state": "MA",
+        "geo_longitude": "-71.083459",
+        "geo_latitude": "42.363703",
+        "city": "Cambridge"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.083459,
+          42.363703
+        ]
+      }
+    },
+    {
+      "id": "217 Stuart Street",
+      "properties": {
+        "zip": "02116",
+        "street address": "217 Stuart Street",
+        "state": "MA",
+        "geo_longitude": "-71.068811",
+        "geo_latitude": "42.3503639268293",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.068811,
+          42.3503639268293
+        ]
+      }
+    },
+    {
+      "id": "190 Massachusetts Avenue",
+      "properties": {
+        "zip": "02474",
+        "street address": "190 Massachusetts Avenue",
+        "state": "MA",
+        "geo_longitude": "-71.141967",
+        "geo_latitude": "42.4052664",
+        "city": "Arlington"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.141967,
+          42.4052664
+        ]
+      }
+    },
+    {
+      "id": "200 Dartmouth Street",
+      "properties": {
+        "zip": "02116",
+        "street address": "200 Dartmouth Street",
+        "state": "MA",
+        "geo_longitude": "-71.076979",
+        "geo_latitude": "42.349136",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.076979,
+          42.349136
+        ]
+      }
+    },
+    {
+      "id": "560 Harrison Avenue",
+      "properties": {
+        "zip": "02118",
+        "street address": "560 Harrison Avenue",
+        "state": "MA",
+        "geo_longitude": "-71.067711",
+        "geo_latitude": "42.3409852272727",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.067711,
+          42.3409852272727
+        ]
+      }
+    },
+    {
+      "id": "42 Province Street",
+      "properties": {
+        "zip": "02108",
+        "street address": "42 Province Street",
+        "state": "MA",
+        "geo_longitude": "-71.0600072340258",
+        "geo_latitude": "42.3568142074678",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0600072340258,
+          42.3568142074678
+        ]
+      }
+    },
+    {
+      "id": "1651 Beacon Street",
+      "properties": {
+        "zip": "02445",
+        "street address": "1651 Beacon Street",
+        "state": "MA",
+        "geo_longitude": "-71.143632",
+        "geo_latitude": "42.337304",
+        "city": "Brookline"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.143632,
+          42.337304
+        ]
+      }
+    },
+    {
+      "id": "1230 Massachusetts Avenue",
+      "properties": {
+        "zip": "02138",
+        "street address": "1230 Massachusetts Avenue",
+        "state": "MA",
+        "geo_longitude": "-71.1161923571429",
+        "geo_latitude": "42.3725376428571",
+        "city": "Cambridge"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1161923571429,
+          42.3725376428571
+        ]
+      }
+    },
+    {
+      "id": "1 Cathedral Avenue",
+      "properties": {
+        "zip": "01966",
+        "street address": "1 Cathedral Avenue",
+        "state": "MA",
+        "geo_longitude": "-70.624505",
+        "geo_latitude": "42.679747",
+        "city": "Rockport"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.624505,
+          42.679747
+        ]
+      }
+    },
+    {
+      "id": "161 Berkeley Street",
+      "properties": {
+        "zip": "02116",
+        "street address": "161 Berkeley Street",
+        "state": "MA",
+        "geo_longitude": "-71.0720552222222",
+        "geo_latitude": "42.3493814444444",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0720552222222,
+          42.3493814444444
+        ]
+      }
+    },
+    {
+      "id": "37 Bowdoin Street",
+      "properties": {
+        "zip": "02114",
+        "street address": "37 Bowdoin Street",
+        "state": "MA",
+        "geo_longitude": "-71.06297814859",
+        "geo_latitude": "42.3601421382993",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06297814859,
+          42.3601421382993
+        ]
+      }
+    },
+    {
+      "id": "55 Huntington Avenue",
+      "properties": {
+        "zip": "02199",
+        "street address": "55 Huntington Avenue",
+        "state": "MA",
+        "geo_longitude": "-71.0810012",
+        "geo_latitude": "42.3460352",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0810012,
+          42.3460352
+        ]
+      }
+    },
+    {
+      "id": "44 Brattle Street",
+      "properties": {
+        "zip": "02138",
+        "street address": "44 Brattle Street",
+        "state": "MA",
+        "geo_longitude": "-71.121488",
+        "geo_latitude": "42.373822",
+        "city": "Cambridge"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.121488,
+          42.373822
+        ]
+      }
+    },
+    {
+      "id": "1 Bennett Street",
+      "properties": {
+        "zip": "02138",
+        "street address": "1 Bennett Street",
+        "state": "MA",
+        "geo_longitude": "-71.122743",
+        "geo_latitude": "42.372518",
+        "city": "Cambridge"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.122743,
+          42.372518
+        ]
+      }
+    },
+    {
+      "id": "71 Charles Street",
+      "properties": {
+        "zip": "02114",
+        "street address": "71 Charles Street",
+        "state": "MA",
+        "geo_longitude": "-71.0703867352843",
+        "geo_latitude": "42.3581727877977",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0703867352843,
+          42.3581727877977
+        ]
+      }
+    },
+    {
+      "id": "350 3rd Street",
+      "properties": {
+        "zip": "02142",
+        "street address": "350 3rd Street",
+        "state": "MA",
+        "geo_longitude": "-71.080298",
+        "geo_latitude": "42.3689544",
+        "city": "Cambridge"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.080298,
+          42.3689544
+        ]
+      }
+    },
+    {
+      "id": "560 Tremont Street",
+      "properties": {
+        "zip": "02118",
+        "street address": "560 Tremont Street",
+        "state": "MA",
+        "geo_longitude": "-71.071939",
+        "geo_latitude": "42.343696",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.071939,
+          42.343696
+        ]
+      }
+    },
+    {
+      "id": "86 Cambridge Street",
+      "properties": {
+        "zip": "01803",
+        "street address": "86 Cambridge Street",
+        "state": "MA",
+        "geo_longitude": "-71.1945887736512",
+        "geo_latitude": "42.4942477576942",
+        "city": "Burlington"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1945887736512,
+          42.4942477576942
+        ]
+      }
+    },
+    {
+      "id": "48 Boylston Street",
+      "properties": {
+        "zip": "02445",
+        "street address": "48 Boylston Street",
+        "state": "MA",
+        "geo_longitude": "-71.1608763541667",
+        "geo_latitude": "42.3245168333333",
+        "city": "Brookline"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1608763541667,
+          42.3245168333333
+        ]
+      }
+    },
+    {
+      "id": "261 Newbury Street",
+      "properties": {
+        "zip": "02116",
+        "street address": "261 Newbury Street",
+        "state": "MA",
+        "geo_longitude": "-71.0832952014178",
+        "geo_latitude": "42.3494757095677",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0832952014178,
+          42.3494757095677
+        ]
+      }
+    },
+    {
+      "id": "97 Mount Vernon St",
+      "properties": {
+        "zip": "02108",
+        "street address": "97 Mount Vernon St",
+        "state": "MA",
+        "geo_longitude": "-71.069627",
+        "geo_latitude": "42.357992",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.069627,
+          42.357992
+        ]
+      }
+    },
+    {
+      "id": "160 Pawtucket Boulevard",
+      "properties": {
+        "zip": "01879",
+        "street address": "160 Pawtucket Boulevard",
+        "state": "MA",
+        "geo_longitude": "-71.3965534133497",
+        "geo_latitude": "42.65941875",
+        "city": "Tyngsboro"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3965534133497,
+          42.65941875
+        ]
+      }
+    },
+    {
+      "id": "43 Boylston Street",
+      "properties": {
+        "zip": "02467",
+        "street address": "43 Boylston Street",
+        "state": "MA",
+        "geo_longitude": "-71.1705854919526",
+        "geo_latitude": "42.3217237804165",
+        "city": "Chestnut Hill"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1705854919526,
+          42.3217237804165
+        ]
+      }
+    },
+    {
+      "id": "26 Park Square",
+      "properties": {
+        "zip": "02116",
+        "street address": "26 Park Square",
+        "state": "MA",
+        "geo_longitude": "-71.067478",
+        "geo_latitude": "42.351188",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.067478,
+          42.351188
+        ]
+      }
+    },
+    {
+      "id": "129 South Street",
+      "properties": {
+        "zip": "02111",
+        "street address": "129 South Street",
+        "state": "MA",
+        "geo_longitude": "-71.0574655333333",
+        "geo_latitude": "42.3511781",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0574655333333,
+          42.3511781
+        ]
+      }
+    },
+    {
+      "id": "242 Harvard Street",
+      "properties": {
+        "zip": "02446",
+        "street address": "242 Harvard Street",
+        "state": "MA",
+        "geo_longitude": "-71.121138",
+        "geo_latitude": "42.341363",
+        "city": "Brookline"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.121138,
+          42.341363
+        ]
+      }
+    },
+    {
+      "id": "226 Hanover Street",
+      "properties": {
+        "zip": "02113",
+        "street address": "226 Hanover Street",
+        "state": "MA",
+        "geo_longitude": "-71.05529325",
+        "geo_latitude": "42.363136375",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.05529325,
+          42.363136375
+        ]
+      }
+    },
+    {
+      "id": "116 Huntington Avenue",
+      "properties": {
+        "zip": "02116",
+        "street address": "116 Huntington Avenue",
+        "state": "MA",
+        "geo_longitude": "-71.0811651",
+        "geo_latitude": "42.3456275",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0811651,
+          42.3456275
+        ]
+      }
+    },
+    {
+      "id": "3 North Square",
+      "properties": {
+        "zip": "02113",
+        "street address": "3 North Square",
+        "state": "MA",
+        "geo_longitude": "-71.0536775",
+        "geo_latitude": "42.36350375",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0536775,
+          42.36350375
+        ]
+      }
+    },
+    {
+      "id": "439 Tremont Street",
+      "properties": {
+        "zip": "02116",
+        "street address": "439 Tremont Street",
+        "state": "MA",
+        "geo_longitude": "-71.0691357333333",
+        "geo_latitude": "42.3467774",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0691357333333,
+          42.3467774
+        ]
+      }
+    },
+    {
+      "id": "350 Cambridge Road",
+      "properties": {
+        "zip": "01801",
+        "street address": "350 Cambridge Road",
+        "state": "MA",
+        "geo_longitude": "-71.167985",
+        "geo_latitude": "42.461373",
+        "city": "Woburn"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.167985,
+          42.461373
+        ]
+      }
+    },
+    {
+      "id": "4 Corey Street",
+      "properties": {
+        "zip": "02132",
+        "street address": "4 Corey Street",
+        "state": "MA",
+        "geo_longitude": "-71.155063",
+        "geo_latitude": "42.2847455",
+        "city": "West Roxbury"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.155063,
+          42.2847455
+        ]
+      }
+    },
+    {
+      "id": "745 Boylston Street ",
+      "properties": {
+        "zip": "02116",
+        "street address": "745 Boylston Street ",
+        "state": "MA",
+        "geo_longitude": "-71.080479",
+        "geo_latitude": "42.34936",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.080479,
+          42.34936
+        ]
+      }
+    },
+    {
+      "id": "34 Columbus Avenue",
+      "properties": {
+        "zip": "02116",
+        "street address": "34 Columbus Avenue",
+        "state": "MA",
+        "geo_longitude": "-71.0689335223529",
+        "geo_latitude": "42.3508134258541",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0689335223529,
+          42.3508134258541
+        ]
+      }
+    },
+    {
+      "id": "1 Faneuil Hall Market Place",
+      "properties": {
+        "zip": "02109",
+        "street address": "1 Faneuil Hall Market Place",
+        "state": "MA",
+        "geo_longitude": "-71.0546435137174",
+        "geo_latitude": "42.3600563",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0546435137174,
+          42.3600563
+        ]
+      }
+    },
+    {
+      "id": "76 Arlington Street",
+      "properties": {
+        "zip": "02116",
+        "street address": "76 Arlington Street",
+        "state": "MA",
+        "geo_longitude": "-71.0702917",
+        "geo_latitude": "42.3510683",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0702917,
+          42.3510683
+        ]
+      }
+    },
+    {
+      "id": "213 Burlington Road",
+      "properties": {
+        "zip": "01730",
+        "street address": "213 Burlington Road",
+        "state": "MA",
+        "geo_longitude": "-71.254288",
+        "geo_latitude": "42.499639",
+        "city": "Bedford"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.254288,
+          42.499639
+        ]
+      }
+    },
+    {
+      "id": "213 Burlington Road",
+      "properties": {
+        "zip": "01730",
+        "street address": "213 Burlington Road",
+        "state": "MA",
+        "geo_longitude": "-71.254288",
+        "geo_latitude": "42.499639",
+        "city": "Bedford"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.254288,
+          42.499639
+        ]
+      }
+    },
+    {
+      "id": "60 Franklin Street Boston",
+      "properties": {
+        "zip": "02110",
+        "street address": "60 Franklin Street Boston",
+        "state": "MA",
+        "geo_longitude": "-71.057845",
+        "geo_latitude": "42.35556",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.057845,
+          42.35556
+        ]
+      }
+    },
+    {
+      "id": "70 Rowes Wharf",
+      "properties": {
+        "zip": "02110",
+        "street address": "70 Rowes Wharf",
+        "state": "MA",
+        "geo_longitude": "-71.0499899166667",
+        "geo_latitude": "42.3571244583333",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0499899166667,
+          42.3571244583333
+        ]
+      }
+    },
+    {
+      "id": "279 Dartmouth Street ",
+      "properties": {
+        "zip": "02116",
+        "street address": "279 Dartmouth Street ",
+        "state": "MA",
+        "geo_longitude": "-71.077707",
+        "geo_latitude": "42.351034",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.077707,
+          42.351034
+        ]
+      }
+    },
+    {
+      "id": "584 Tremont Street",
+      "properties": {
+        "zip": "02118",
+        "street address": "584 Tremont Street",
+        "state": "MA",
+        "geo_longitude": "-71.07289425",
+        "geo_latitude": "42.34319875",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.07289425,
+          42.34319875
+        ]
+      }
+    },
+    {
+      "id": "510 Atlantic Avenue",
+      "properties": {
+        "zip": "02210",
+        "street address": "510 Atlantic Avenue",
+        "state": "MA",
+        "geo_longitude": "-71.053415",
+        "geo_latitude": "42.3536731538462",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.053415,
+          42.3536731538462
+        ]
+      }
+    },
+    {
+      "id": "223 Columbus Avenue",
+      "properties": {
+        "zip": "02116",
+        "street address": "223 Columbus Avenue",
+        "state": "MA",
+        "geo_longitude": "-71.0734901081081",
+        "geo_latitude": "42.3474151081081",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0734901081081,
+          42.3474151081081
+        ]
+      }
+    },
+    {
+      "id": "15 Beacon Street",
+      "properties": {
+        "zip": "02108",
+        "street address": "15 Beacon Street",
+        "state": "MA",
+        "geo_longitude": "-71.0622155467072",
+        "geo_latitude": "42.3582519289827",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0622155467072,
+          42.3582519289827
+        ]
+      }
+    },
+    {
+      "id": "2 Seaport Lane",
+      "properties": {
+        "zip": "02210",
+        "street address": "2 Seaport Lane",
+        "state": "MA",
+        "geo_longitude": "-71.0415235",
+        "geo_latitude": "42.3485826",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0415235,
+          42.3485826
+        ]
+      }
+    },
+    {
+      "id": "417 Hanover Street",
+      "properties": {
+        "zip": "02113",
+        "street address": "417 Hanover Street",
+        "state": "MA",
+        "geo_longitude": "-71.052787",
+        "geo_latitude": "42.365692",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.052787,
+          42.365692
+        ]
+      }
+    },
+    {
+      "id": "16 Garden Street",
+      "properties": {
+        "zip": "02138",
+        "street address": "16 Garden Street",
+        "state": "MA",
+        "geo_longitude": "-71.123023",
+        "geo_latitude": "42.377355",
+        "city": "Cambridge"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.123023,
+          42.377355
+        ]
+      }
+    },
+    {
+      "id": "40 Court Street",
+      "properties": {
+        "zip": "02108",
+        "street address": "40 Court Street",
+        "state": "MA",
+        "geo_longitude": "-71.0586387291667",
+        "geo_latitude": "42.35921475",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0586387291667,
+          42.35921475
+        ]
+      }
+    },
+    {
+      "id": "60 Rowes Wharf",
+      "properties": {
+        "zip": "02110",
+        "street address": "60 Rowes Wharf",
+        "state": "MA",
+        "geo_longitude": "-71.0500659583333",
+        "geo_latitude": "42.3571024791667",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0500659583333,
+          42.3571024791667
+        ]
+      }
+    },
+    {
+      "id": "1166 Washington Street",
+      "properties": {
+        "zip": "02118",
+        "street address": "1166 Washington Street",
+        "state": "MA",
+        "geo_longitude": "-71.066375295812",
+        "geo_latitude": "42.343253899285",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.066375295812,
+          42.343253899285
+        ]
+      }
+    },
+    {
+      "id": "11 Springfield Street",
+      "properties": {
+        "zip": "02139",
+        "street address": "11 Springfield Street",
+        "state": "MA",
+        "geo_longitude": "-71.1003515",
+        "geo_latitude": "42.3739315",
+        "city": "Cambridge"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1003515,
+          42.3739315
+        ]
+      }
+    },
+    {
+      "id": "14 Green Street",
+      "properties": {
+        "zip": "02446",
+        "street address": "14 Green Street",
+        "state": "MA",
+        "geo_longitude": "-71.1218244",
+        "geo_latitude": "42.3431489",
+        "city": "Brookline"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1218244,
+          42.3431489
+        ]
+      }
+    },
+    {
+      "id": "One International Place",
+      "properties": {
+        "zip": "02110",
+        "street address": "One International Place",
+        "state": "MA",
+        "geo_longitude": "-71.0521484253727",
+        "geo_latitude": "42.35570635",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0521484253727,
+          42.35570635
+        ]
+      }
+    },
+    {
+      "id": "159 Newbury Street",
+      "properties": {
+        "zip": "02116",
+        "street address": "159 Newbury Street",
+        "state": "MA",
+        "geo_longitude": "-71.078399",
+        "geo_latitude": "42.350799",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.078399,
+          42.350799
+        ]
+      }
+    },
+    {
+      "id": "60 School Street",
+      "properties": {
+        "zip": "02108",
+        "street address": "60 School Street",
+        "state": "MA",
+        "geo_longitude": "-71.0598681818182",
+        "geo_latitude": "42.3578532727273",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0598681818182,
+          42.3578532727273
+        ]
+      }
+    },
+    {
+      "id": "468 Commonwealth Avenue",
+      "properties": {
+        "zip": "02215",
+        "street address": "468 Commonwealth Avenue",
+        "state": "MA",
+        "geo_longitude": "-71.0940410488709",
+        "geo_latitude": "42.3487394932372",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0940410488709,
+          42.3487394932372
+        ]
+      }
+    },
+    {
+      "id": "272 Cambridge Street",
+      "properties": {
+        "zip": "02114",
+        "street address": "272 Cambridge Street",
+        "state": "MA",
+        "geo_longitude": "-71.068102",
+        "geo_latitude": "42.361018",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.068102,
+          42.361018
+        ]
+      }
+    },
+    {
+      "id": "406 Stuart Street",
+      "properties": {
+        "zip": "02116",
+        "street address": "406 Stuart Street",
+        "state": "MA",
+        "geo_longitude": "-71.0764191",
+        "geo_latitude": "42.3483098",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0764191,
+          42.3483098
+        ]
+      }
+    },
+    {
+      "id": "39 Stanhope Street ",
+      "properties": {
+        "zip": "02116",
+        "street address": "39 Stanhope Street ",
+        "state": "MA",
+        "geo_longitude": "-71.0737801935484",
+        "geo_latitude": "42.3486170645161",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0737801935484,
+          42.3486170645161
+        ]
+      }
+    },
+    {
+      "id": "1 Bennett Street",
+      "properties": {
+        "zip": "02138",
+        "street address": "1 Bennett Street",
+        "state": "MA",
+        "geo_longitude": "-71.122743",
+        "geo_latitude": "42.372518",
+        "city": "Cambridge"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.122743,
+          42.372518
+        ]
+      }
+    },
+    {
+      "id": "250 Hanover Street",
+      "properties": {
+        "zip": "02113",
+        "street address": "250 Hanover Street",
+        "state": "MA",
+        "geo_longitude": "-71.0548592142857",
+        "geo_latitude": "42.3635768571429",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0548592142857,
+          42.3635768571429
+        ]
+      }
+    },
+    {
+      "id": "201 Massachusetts Avenue",
+      "properties": {
+        "zip": "02474",
+        "street address": "201 Massachusetts Avenue",
+        "state": "MA",
+        "geo_longitude": "-71.1422407",
+        "geo_latitude": "42.4059991",
+        "city": "Arlington"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1422407,
+          42.4059991
+        ]
+      }
+    },
+    {
+      "id": "250 Granite Street",
+      "properties": {
+        "zip": "02184",
+        "street address": "250 Granite Street",
+        "state": "MA",
+        "geo_longitude": "-71.0234677",
+        "geo_latitude": "42.21898595",
+        "city": "Braintree"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0234677,
+          42.21898595
+        ]
+      }
+    },
+    {
+      "id": "383 Congress Street",
+      "properties": {
+        "zip": "02210",
+        "street address": "383 Congress Street",
+        "state": "MA",
+        "geo_longitude": "-71.0452296",
+        "geo_latitude": "42.3491707",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0452296,
+          42.3491707
+        ]
+      }
+    },
+    {
+      "id": "45 School Street",
+      "properties": {
+        "zip": "02108",
+        "street address": "45 School Street",
+        "state": "MA",
+        "geo_longitude": "-71.059724",
+        "geo_latitude": "42.357986",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.059724,
+          42.357986
+        ]
+      }
+    },
+    {
+      "id": "8 Holyoke Street",
+      "properties": {
+        "zip": "02138",
+        "street address": "8 Holyoke Street",
+        "state": "MA",
+        "geo_longitude": "-71.118540875",
+        "geo_latitude": "42.372043125",
+        "city": "Cambridge"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.118540875,
+          42.372043125
+        ]
+      }
+    },
+    {
+      "id": "449 Common Street",
+      "properties": {
+        "zip": "02478",
+        "street address": "449 Common Street",
+        "state": "MA",
+        "geo_longitude": "-71.1750123452863",
+        "geo_latitude": "42.3813216192737",
+        "city": "Belmont"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1750123452863,
+          42.3813216192737
+        ]
+      }
+    },
+    {
+      "id": "215 Charles Street",
+      "properties": {
+        "zip": "02114",
+        "street address": "215 Charles Street",
+        "state": "MA",
+        "geo_longitude": "-71.0701587813972",
+        "geo_latitude": "42.36206395",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0701587813972,
+          42.36206395
+        ]
+      }
+    },
+    {
+      "id": "6 Wayside Rd",
+      "properties": {
+        "zip": "01803",
+        "street address": "6 Wayside Rd",
+        "state": "MA",
+        "geo_longitude": "-71.1938043053654",
+        "geo_latitude": "42.4858033109586",
+        "city": "Burlington"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1938043053654,
+          42.4858033109586
+        ]
+      }
+    },
+    {
+      "id": "220 Boylston St",
+      "properties": {
+        "zip": "02467",
+        "street address": "220 Boylston St",
+        "state": "MA",
+        "geo_longitude": "-71.1770048571429",
+        "geo_latitude": "42.3197081428571",
+        "city": "Chestnut Hill"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1770048571429,
+          42.3197081428571
+        ]
+      }
+    },
+    {
+      "id": "294 Congress Street",
+      "properties": {
+        "zip": "02110",
+        "street address": "294 Congress Street",
+        "state": "MA",
+        "geo_longitude": "-71.052399479097",
+        "geo_latitude": "42.3526503229933",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.052399479097,
+          42.3526503229933
+        ]
+      }
+    },
+    {
+      "id": "101 Arlington Street",
+      "properties": {
+        "zip": "02116",
+        "street address": "101 Arlington Street",
+        "state": "MA",
+        "geo_longitude": "-71.0702917",
+        "geo_latitude": "42.3510683",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0702917,
+          42.3510683
+        ]
+      }
+    },
+    {
+      "id": "914A Beacon Street",
+      "properties": {
+        "zip": "02215",
+        "street address": "914A Beacon Street",
+        "state": "MA",
+        "geo_longitude": "-71.1033469",
+        "geo_latitude": "42.3471638",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1033469,
+          42.3471638
+        ]
+      }
+    },
+    {
+      "id": "388 Moody Street",
+      "properties": {
+        "zip": "02453",
+        "street address": "388 Moody Street",
+        "state": "MA",
+        "geo_longitude": "-71.23706275",
+        "geo_latitude": "42.3697185",
+        "city": "Waltham"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.23706275,
+          42.3697185
+        ]
+      }
+    },
+    {
+      "id": "22R Birch Street",
+      "properties": {
+        "zip": "02131",
+        "street address": "22R Birch Street",
+        "state": "MA",
+        "geo_longitude": "-71.132868",
+        "geo_latitude": "42.2844",
+        "city": "Roslindale"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.132868,
+          42.2844
+        ]
+      }
+    },
+    {
+      "id": "1 Huntington Avenue",
+      "properties": {
+        "zip": "02116",
+        "street address": "1 Huntington Avenue",
+        "state": "MA",
+        "geo_longitude": "-71.077132",
+        "geo_latitude": "42.349293",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.077132,
+          42.349293
+        ]
+      }
+    },
+    {
+      "id": "379 Hanover Street",
+      "properties": {
+        "zip": "02113",
+        "street address": "379 Hanover Street",
+        "state": "MA",
+        "geo_longitude": "-71.0531822222222",
+        "geo_latitude": "42.3649386666667",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0531822222222,
+          42.3649386666667
+        ]
+      }
+    },
+    {
+      "id": "One Marina Park Drive",
+      "properties": {
+        "zip": "02210",
+        "street address": "One Marina Park Drive",
+        "state": "MA",
+        "geo_longitude": "-71.0453602841517",
+        "geo_latitude": "42.35324825",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0453602841517,
+          42.35324825
+        ]
+      }
+    },
+    {
+      "id": "50 Dalton Street",
+      "properties": {
+        "zip": "02115",
+        "street address": "50 Dalton Street",
+        "state": "MA",
+        "geo_longitude": "-71.085307",
+        "geo_latitude": "42.347031",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.085307,
+          42.347031
+        ]
+      }
+    },
+    {
+      "id": "377 Walden Street",
+      "properties": {
+        "zip": "02138",
+        "street address": "377 Walden Street",
+        "state": "MA",
+        "geo_longitude": "-71.13437375",
+        "geo_latitude": "42.383709",
+        "city": "Cambridge"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.13437375,
+          42.383709
+        ]
+      }
+    },
+    {
+      "id": "1 Seaport Lane Boston",
+      "properties": {
+        "zip": "02210",
+        "street address": "1 Seaport Lane Boston",
+        "state": "MA",
+        "geo_longitude": "-71.0415235",
+        "geo_latitude": "42.3485826",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0415235,
+          42.3485826
+        ]
+      }
+    },
+    {
+      "id": "83 Main Street",
+      "properties": {
+        "zip": "02129",
+        "street address": "83 Main Street",
+        "state": "MA",
+        "geo_longitude": "-71.0633568367347",
+        "geo_latitude": "42.374424",
+        "city": "Charlestown"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0633568367347,
+          42.374424
+        ]
+      }
+    },
+    {
+      "id": "266 Newbury Street",
+      "properties": {
+        "zip": "02116",
+        "street address": "266 Newbury Street",
+        "state": "MA",
+        "geo_longitude": "-71.0829575536268",
+        "geo_latitude": "42.349383905088",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0829575536268,
+          42.349383905088
+        ]
+      }
+    },
+    {
+      "id": "210 Hanover Street",
+      "properties": {
+        "zip": "02113",
+        "street address": "210 Hanover Street",
+        "state": "MA",
+        "geo_longitude": "-71.055567",
+        "geo_latitude": "42.3628868571429",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.055567,
+          42.3628868571429
+        ]
+      }
+    },
+    {
+      "id": "98 Salem Street",
+      "properties": {
+        "zip": "02113",
+        "street address": "98 Salem Street",
+        "state": "MA",
+        "geo_longitude": "-71.055665",
+        "geo_latitude": "42.364105",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.055665,
+          42.364105
+        ]
+      }
+    },
+    {
+      "id": "800 Boylston Street",
+      "properties": {
+        "zip": "02199",
+        "street address": "800 Boylston Street",
+        "state": "MA",
+        "geo_longitude": "-71.0774775",
+        "geo_latitude": "42.3500548",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0774775,
+          42.3500548
+        ]
+      }
+    },
+    {
+      "id": "47 Charles Street",
+      "properties": {
+        "zip": "02114",
+        "street address": "47 Charles Street",
+        "state": "MA",
+        "geo_longitude": "-71.069996",
+        "geo_latitude": "42.3575",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.069996,
+          42.3575
+        ]
+      }
+    },
+    {
+      "id": "52 Brattle Street",
+      "properties": {
+        "zip": "02138",
+        "street address": "52 Brattle Street",
+        "state": "MA",
+        "geo_longitude": "-71.121901",
+        "geo_latitude": "42.374277",
+        "city": "Cambridge"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.121901,
+          42.374277
+        ]
+      }
+    },
+    {
+      "id": "900 Boylston Street",
+      "properties": {
+        "zip": "02115",
+        "street address": "900 Boylston Street",
+        "state": "MA",
+        "geo_longitude": "-71.091336",
+        "geo_latitude": "42.3465198",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.091336,
+          42.3465198
+        ]
+      }
+    },
+    {
+      "id": "647 Tremont Street",
+      "properties": {
+        "zip": "02118",
+        "street address": "647 Tremont Street",
+        "state": "MA",
+        "geo_longitude": "-71.075281",
+        "geo_latitude": "42.34213",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.075281,
+          42.34213
+        ]
+      }
+    },
+    {
+      "id": "233 Hanover Street",
+      "properties": {
+        "zip": "02113",
+        "street address": "233 Hanover Street",
+        "state": "MA",
+        "geo_longitude": "-71.055138",
+        "geo_latitude": "42.3630153333333",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.055138,
+          42.3630153333333
+        ]
+      }
+    },
+    {
+      "id": "689 Massachusetts Avenue",
+      "properties": {
+        "zip": "02476",
+        "street address": "689 Massachusetts Avenue",
+        "state": "MA",
+        "geo_longitude": "-71.2072462857143",
+        "geo_latitude": "42.4297951428571",
+        "city": "Arlington"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2072462857143,
+          42.4297951428571
+        ]
+      }
+    },
+    {
+      "id": "506 Main Street",
+      "properties": {
+        "zip": "02176",
+        "street address": "506 Main Street",
+        "state": "MA",
+        "geo_longitude": "-71.0652779",
+        "geo_latitude": "42.4554562",
+        "city": "Melrose"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0652779,
+          42.4554562
+        ]
+      }
+    },
+    {
+      "id": "295 Franklin Street",
+      "properties": {
+        "zip": "02110",
+        "street address": "295 Franklin Street",
+        "state": "MA",
+        "geo_longitude": "-71.052633",
+        "geo_latitude": "42.357195",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.052633,
+          42.357195
+        ]
+      }
+    },
+    {
+      "id": "1357 Washington Street",
+      "properties": {
+        "zip": "02118",
+        "street address": "1357 Washington Street",
+        "state": "MA",
+        "geo_longitude": "-71.06930395",
+        "geo_latitude": "42.3415655",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06930395,
+          42.3415655
+        ]
+      }
+    },
+    {
+      "id": "41 Union Street",
+      "properties": {
+        "zip": "02108",
+        "street address": "41 Union Street",
+        "state": "MA",
+        "geo_longitude": "-71.0569317619048",
+        "geo_latitude": "42.3612736666667",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0569317619048,
+          42.3612736666667
+        ]
+      }
+    },
+    {
+      "id": "20 Ericsson Street",
+      "properties": {
+        "zip": "02122",
+        "street address": "20 Ericsson Street",
+        "state": "MA",
+        "geo_longitude": "-71.0407475",
+        "geo_latitude": "42.2916935",
+        "city": "Boston"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0407475,
+          42.2916935
+        ]
+      }
+    },
+    {
+      "id": "21 North Street",
+      "properties": {
+        "zip": "02052",
+        "street address": "21 North Street",
+        "state": "MA",
+        "geo_longitude": "-71.30579",
+        "geo_latitude": "42.186998",
+        "city": "Medfield"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.30579,
+          42.186998
+        ]
+      }
+    },
+    {
+      "id": "575 Memorial Drive",
+      "properties": {
+        "zip": "02139",
+        "street address": "575 Memorial Drive",
+        "state": "MA",
+        "geo_longitude": "-71.1049214146276",
+        "geo_latitude": "42.3536201040277",
+        "city": "Cambridge"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1049214146276,
+          42.3536201040277
+        ]
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}
