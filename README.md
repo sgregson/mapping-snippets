@@ -1,6 +1,8 @@
 ##Mapping Snippets
 
-Miscellaneous static maps from data sources all over the place
+Miscellaneous static maps from data sources all over the place.
+
+View the actual maps at http://sgregson.github.io/mapping_snippets/, or browse the .geojson files
 
 ##Sources
 
