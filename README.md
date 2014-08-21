@@ -2,7 +2,7 @@
 
 Miscellaneous static maps from data sources all over the place.
 
-View the actual maps at http://sgregson.github.io/mapping_snippets/, or browse the .geojson files
+View the actual maps at http://sgregson.github.io/mapping-snippets/, or browse the .geojson files
 
 ##Sources
 
