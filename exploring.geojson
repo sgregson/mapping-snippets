@@ -1,0 +1,13 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [42.314674, -71.104084]
+  },
+  "properties": {
+    "name": "Ula Cafe",
+    "type": "coffee shop",
+    "rating": "5",
+    "price": "$$"
+  }
+}
