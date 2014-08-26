@@ -1,20 +1,28 @@
 {
   "features": [
     {
-      id: "ula cafe",
+      "id": "224 BOSTON STREET AMERICAN",
+      "properties": {
+        "name": "224 BOSTON STREET AMERICAN",
+        "address": "224 Boston Street, Dorchester, MA, 02125",
+        "phone": "617-265-1217",
+        "region": "DORCHESTER",
+        "mbta access": "no",
+        "Lunch Detail": "",
+        "Dinner Details": "Dinner: $33 for three-course menu",
+        "marker-size": "small",
+        "marker-symbol": "restaurant",
+        "geo_accuracy": "secondary",
+        "geo_longitude": "-71.0581969",
+        "geo_latitude": "42.3273788"
+      },
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.104084,
-          42.314674
+          -71.0581969,
+          42.3273788
         ]
-      },
-      "properties": {
-        "name": "Ula Cafe",
-        "type": "coffee shop",
-        "rating": "5",
-        "price": "$$"
       }
     }
   ]
