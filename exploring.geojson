@@ -24,6 +24,31 @@
           42.3273788
         ]
       }
+    },
+    {
+      "id": "29 NEWBURY RESTAURANT AMERICAN",
+      "properties": {
+        "name": "29 NEWBURY RESTAURANT AMERICAN",
+        "address": "29 Newbury Street, Boston, MA, 02116",
+        "phone": "617-536-0290",
+        "region": "BACK BAY",
+        "mbta access": "yes",
+        "Lunch Detail": "Lunch: $25 for two-course menu",
+        "Dinner Details": "Dinner: $33 for three-course menu",
+        "marker-size": "small",
+        "marker-symbol": "restaurant",
+        "geo_accuracy": "house",
+        "geo_longitude": "-71.0723838461538",
+        "geo_latitude": "42.3524192307692"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0723838461538,
+          42.3524192307692
+        ]
+      }
     }
   ]
 }
