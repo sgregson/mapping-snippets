@@ -38,6 +38,24 @@
         "marker-size": "small",
         "marker-symbol": "farm"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.10426,
+          42.31704
+        ]
+      },
+      "properties": {
+        "name": "",
+        "rating": "? \u2606 \u2605 \u2606 \u2605 \u2606",
+        "price": "? $ $ $ $ $",
+        "marker-color": "#999",
+        "marker-size": "large",
+        "marker-symbol": "rocket"
+      }
     }
   ]
 }
