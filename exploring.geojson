@@ -14,11 +14,29 @@
       "properties": {
         "name": "Ula Cafe",
         "type": "coffee shop",
-        "rating": "5",
+        "rating": "\u2605 \u2605 \u2605 \u2605 \u2605",
         "price": "$$",
         "marker-color": "#090",
         "marker-size": "small",
         "marker-symbol": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.103768,
+          42.313627
+        ]
+      },
+      "properties": {
+        "name": "Farmer's Market",
+        "rating": "? \u2606 / \u2605",
+        "price": "? $",
+        "marker-color": "#666",
+        "marker-size": "small",
+        "marker-symbol": "farm"
       }
     }
   ]
